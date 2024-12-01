@@ -1,0 +1,7 @@
+helu_guru "Testing Kannada Variables"
+nirdharisu x = 100
+nirdharisu y = 200
+print_madi "Value of x is x"
+print_madi "Value of y is y"
+calculate x + y
+calculate x * y

@@ -1,0 +1,2 @@
+helu_guru "Sum of the First 10 Numbers"
+calculate sum(range(1, 11))

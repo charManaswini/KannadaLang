@@ -1,0 +1,3 @@
+helu_guru "Interactive Kannada Greeting"
+thagisu_mahiti "Nimdu hesaru enu?"  # Enter your name
+print_madi "Namasakara, " 

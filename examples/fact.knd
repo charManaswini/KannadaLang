@@ -1,0 +1,2 @@
+helu_guru "Factorial Calculation"
+madu_loop 5, print_madi "Intermediate result: 1 * _ = " +  1 * _

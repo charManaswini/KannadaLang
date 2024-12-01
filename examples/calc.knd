@@ -1,0 +1,6 @@
+helu_guru "Arithmetic Operations"
+calculate 5 + 3
+calculate 10 - 4
+calculate 6 * 7
+calculate 8 / 2
+calculate (5 + 3) * 2 - 4 / 2
